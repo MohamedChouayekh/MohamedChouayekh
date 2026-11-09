@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Mohamed Chouayekh 👋
 
-<!--
-**MohamedChouayekh/MohamedChouayekh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Computer Engineering Student at ESPRIT, Tunisia  
+💼 Specialization: Financial Computing (INFINI)  
+🎯 Interested in Software Engineering, Banking IT and FinTech.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am interested in building software solutions, particularly
+in banking systems, financial applications and data analysis.
+
+I have practical experience developing a simulated mobile
+banking application using Flutter, Spring Boot and MySQL.
+
+## Technical Skills
+
+- **Languages:** Java, Python, C, C#, JavaScript, Dart, R
+- **Backend:** Spring Boot, ASP.NET MVC, Entity Framework
+- **Frontend & Mobile:** Angular, Flutter, HTML, CSS
+- **Databases:** MySQL, SQL Server
+- **Tools:** Git, GitHub, Linux, Maven, CI/CD
+
+## Selected Projects
+
+- **SmartBank:** Simulated mobile banking application.
+- **SmartInsure:** Insurance management application.
+- **MarketSim AI:** Academic financial market simulation project.
+
+## Contact
+
+- Email: mohamedchouayekh4@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mohamed-chouayekh-642839301
